@@ -3,8 +3,8 @@ into mysql database and retrive data into database.They can be perform operation
 view data.It is one part of admin panel on the project and this part is a password protection login here.
 This is the only for authenticate admin to access in insert, delete, update operation perform.
 
-username : bhaumik
-password : admin
+username : karan
+password : mane
 
 > Here Login to access on the project and perform operation.
 > Another project download to visit my blogs.
